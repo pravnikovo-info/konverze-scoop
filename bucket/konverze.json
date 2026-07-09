@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://konverze.pravnikovo.info/konverze-v0.7.78-portable-win64.zip",
-            "hash": "62c9db1b47d2d9411c78faf8936111d6f087c3ae05f66e0691c7019e8774ab0f",
+            "hash": "5ea55a5d8511d573579efc82049967f4dc025b54952efda9b29b6feb0a4a132b",
             "extract_dir": "konverze"
         }
     },
