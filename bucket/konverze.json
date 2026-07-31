@@ -1,12 +1,12 @@
 {
-    "version": "0.7.82",
+    "version": "0.7.83",
     "description": "Autorizovana konverze dokumentu (I.CA / PostSignum, Czech POINT)",
     "homepage": "https://konverze.pravnikovo.info",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://konverze.pravnikovo.info/konverze-v0.7.82-portable-win64.zip",
-            "hash": "de06b6b59f0b80be13114bb9f8180049aced955ee2673f052b496127dc64e019",
+            "url": "https://konverze.pravnikovo.info/konverze-v0.7.83-portable-win64.zip",
+            "hash": "4b9d310dfdf6f0f7e4cf08e955073c4c6ba99eb9e3533600c9d9dac89e74e6c5",
             "extract_dir": "konverze"
         }
     },
